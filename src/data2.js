@@ -1,0 +1,146 @@
+const FirstNewSection=[
+    {
+        key: 1,
+        class: "off-percent",
+        off: "15%",
+        src1: "./images/products/jacket-3.jpg",
+        src2: "./images/products/jacket-4.jpg",
+        prodName: "JACKET",
+        prodDescp: "Men's Winter Leather Jackets",
+        offerPrice: "₹3999",
+        oldPrice: "₹5599",
+    },
+    {
+        key: 2,
+        class: "class-nil",
+        off: "",
+        src1: "./images/products/shoe-2.jpg",
+        src2: "./images/products/shoe-2_1.jpg",
+        prodName: "CASUAL",
+        prodDescp: "Casual Men's Brown Shoes",
+        offerPrice: "₹7999",
+        oldPrice: "₹8499",
+    },
+    {
+        key: 3,
+        class: "class-nil",
+        off: "",
+        src1: "./images/products/jacket-1.jpg",
+        src2: "./images/products/jacket-2.jpg",
+        prodName: "JACKET",
+        prodDescp: "Men's winter Leathers Jackets",
+        offerPrice: "₹2399",
+        oldPrice: "₹2999",
+    }
+    ]
+    
+    const SecondNewSection=[
+    {
+        key: 1,
+        class: "sale",
+        off: "SALE",
+        src1: "./images/products/shirt-1.jpg",
+        src2: "./images/products/shirt-2.jpg",
+        prodName: "SHIRT",
+        prodDescp: "Pure Garment Dyed Cotton Shirt",
+        offerPrice: "₹2999",
+        oldPrice: "₹3999",
+    },
+    
+    {
+        key: 2,
+        class: "sale",
+        off: "SALE",
+        src1: "./images/products/watch-3.jpg",
+        src2: "./images/products/watch-4.jpg",
+        prodName: "WATCHES",
+        prodDescp: "Pocket Watch Leather Pouch",
+        offerPrice: "₹11999",
+        oldPrice: "₹13999",
+    },
+    {
+        key: 3,
+        class: "sale",
+        off: "SALE",
+        src1: "./images/products/sports-2.jpg",
+        src2: "./images/products/sports-4.jpg",
+        prodName: "SPORTS",
+        prodDescp: "Trekking & Running Shoes - Black",
+        offerPrice: "₹4799",
+        oldPrice: "₹4999",
+    },
+    ]
+    
+    const ThirdNewSection=[
+        {
+            key: 1,
+            class: "class-nil",
+            off: "",
+            src1: "./images/products/jacket-5.jpg",
+            src2: "./images/products/jacket-6.jpg",
+            prodName: "JACKET",
+            prodDescp: "MEN Yarn Fleece Full- Zip Jacket",
+            offerPrice: "₹4799",
+            oldPrice: "₹4999",
+        },
+        {
+            key: 2,
+            class: "class-nil",
+            off: "",
+            src1: "./images/products/watch-1.jpg",
+            src2: "./images/products/watch-2.jpg",
+            prodName: "WATCHES",
+            prodDescp: "Smart Watche Vital Plus",
+            offerPrice: "₹7999",
+            oldPrice: "₹8999",
+        },
+        {
+            key: 3,
+            class: "class-nil",
+            off: "",
+            src1: "./images/products/shoe-1.jpg",
+            src2: "./images/products/shoe-1_1.jpg",
+            prodName: "FORMAL",
+            prodDescp: "Men's Leather Formal Wear Shoes",
+            offerPrice: "₹3999",
+            oldPrice: "₹4999",
+        },
+    ]
+    
+    const FourthNewSection=[
+        {
+        key: 1,
+        class: "new-pro-pin",
+        off: "NEW",
+        src1: "./images/products/clothes-3.jpg",
+        src2: "./images/products/clothes-4.jpg",
+        prodName: "SKIRT",
+        prodDescp: "Black Floral Wrap Midi Skirt",
+        offerPrice: "₹1599",
+        oldPrice: "₹2399",
+    },
+    {
+        key: 2,
+        class: "sale",
+        off: "SALE",
+        src1: "./images/products/party-wear-1.jpg",
+        src2: "./images/products/party-wear-2.jpg",
+        prodName: "PARTY WEAR",
+        prodDescp: "Women's Party Wear Shoes",
+        offerPrice: "₹1799",
+        oldPrice: "₹2399",
+    },
+    {
+        key: 3,
+        class: "sale",
+        off: "SALE",
+        src1: "./images/products/shorts-1.jpg",
+        src2:"./images/products/shorts-2.jpg",
+        prodName: "SHORTS",
+        prodDescp: "Better Basics French Terry Sweetshorts",
+        offerPrice: "₹6399",
+        oldPrice: "₹6999",
+    }
+    ]
+
+export {FirstNewSection, SecondNewSection, ThirdNewSection, FourthNewSection}
